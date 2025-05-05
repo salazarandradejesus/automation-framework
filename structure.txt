@@ -1,0 +1,18 @@
+parabank-automation/
+├─ features/
+│   ├─ login.feature
+│   ├─ step_definitions/
+│   │   └─ login.steps.js
+│   └─ support/
+│       ├─ world.js
+│       ├─ hooks.js
+│       └─ cucumber.js      
+├─ pages/
+│   ├─ LoginPage.js
+│   └─ HomePage.js
+├─ utils/
+│   └─ helpers.js
+├─ .gitignore
+├─ package.json
+├─ playwright.config.js
+└─ README.md
